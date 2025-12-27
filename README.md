@@ -51,4 +51,4 @@ Identify sales trends over time (Year, Month, Day)
 
 Images:- 
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/266be922-8d13-4fb7-8186-94b1445bc39b" />
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/70e1dc1b-b57b-45d7-a0de-fde7102ef7c7" />
+<img width="1284" height="716" alt="Screenshot 2025-12-27 132612" src="https://github.com/user-attachments/assets/da3a245f-ad7b-4e09-9fa9-bd0e4aa1d995" />
